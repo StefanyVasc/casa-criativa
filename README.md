@@ -16,15 +16,16 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - JavaScript
+  - Nunjucks  
+  - NodeJs
+    - Express
 - CSS
 - HTML
-- Express
-- Nunjucks
 - SQLite
 
 ## 💻 Projeto
 
-Aplicação do WorkshopDev chamada "Casa Criativa", tem em objetivo unir suas ideias em um único só lugar, você pode adicionar passa-tempos, tarefas e cursos que pretende fazer nessa crise. O usuário poderá ver todas as ideias , além de criar novas ideias e inclui-las na listagem.<br><br>
+Aplicação do WorkshopDev promovido pela [Rocketseat](https://rocketseat.com.br/) chamada "Casa Criativa", tem como objetivo unir suas ideias para aproveitar o tempo em isolamento em um único só lugar, você pode adicionar passa-tempos, tarefas e cursos que pretende fazer nessa crise. O usuário poderá ver todas as ideias , além de criar novas ideias e inclui-las na listagem.<br><br>
 
 
 ## :memo: Licença
