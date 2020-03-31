@@ -6,6 +6,7 @@
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#art-projeto">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -25,6 +26,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Aplicação do WorkshopDev chamada "Casa Criativa", tem em objetivo unir suas ideias em um único só lugar, você pode adicionar passa-tempos, tarefas e cursos que pretende fazer nessa crise. O usuário poderá ver todas as ideias , além de criar novas ideias e inclui-las na listagem.<br><br>
+
+## :art: Projeto
+
+| Página principal                           | Formulário para adicionar novas ideias                           | Lista de ideias                            |
+| ------------------------------------------ | ---------------------------------------------------------------- | ------------------------------------------ |
+| ![Página principal](public/index-img.jpeg) | ![Formulário para adicionar novas ideias](public/form-idea.jpeg) | ![Lista de ideias ](public/idea-list.jpeg) |
 
 
 ## :memo: Licença
